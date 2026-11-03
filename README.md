@@ -2,6 +2,8 @@
 
 **Flutter developer from Pakistan** — I build Android apps + matching websites for shops and schools. Everything below is live and working, not just screenshots.
 
+🌐 **My portfolio: https://mubashir-ghani-shah.github.io/**
+
 ## 🚀 Live projects
 
 **Fashion Point — E-commerce app + website for clothing stores**
@@ -20,6 +22,7 @@ Flutter · Dart · Firebase (Firestore, Auth, Hosting) · GitHub · HTML/CSS
 
 - Fiverr portfolio: https://www.fiverr.com/users/mubashir_1011/portfolio
 - Upwork: https://www.upwork.com/freelancers/~0168acbd5296bea258
+- LinkedIn: https://www.linkedin.com/in/mubashir-ghani-shah/
 
 I take on app + website projects for clothing stores and schools — demo first, then we talk.
 
